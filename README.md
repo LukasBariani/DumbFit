@@ -34,7 +34,7 @@ O projeto foi desenvolvido seguindo as recomendações oficiais do ecossistema A
 
 | Histórico de Treinos | Formulário com Calendário |
 |:---:|:---:|
-| <img src="screenshots/lista_treinos.png" width="250"> | <img src="screenshots/form_treinos.png" width="250"> |
+| <img src="screenshots/lista_treinos.jpeg" width="250"> | <img src="screenshots/form_treinos.jpeg" width="250"> |
 
 ## 🏗️ Como compilar o projeto
 
